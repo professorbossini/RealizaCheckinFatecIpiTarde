@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Realiza Checkin Fatec Ipi Tarde</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="explicacao_gps">"Olha, assim não vai dar certo."</string>
+    <string name="mapa_nao_esta_pronto">"Mapa não está pronto."</string>
+    <string name="sem_gps">"Sem GPS."</string>
+    <string name="sem_app_para_foto">"Sem app para foto."</string>
+    <string name="sem_foto_sem_checkin">"Se você não tirar uma foto, não vai rolar o checkin!"</string>
+</resources>
